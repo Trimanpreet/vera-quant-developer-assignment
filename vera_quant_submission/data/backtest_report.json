@@ -1,0 +1,378 @@
+{
+  "starting_cash": "100000",
+  "ending_equity": "102159.07",
+  "return": "0.0215907",
+  "position": -3,
+  "trades": [
+    {
+      "timestamp": "2026-01-22",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "22039.85",
+      "fees": "6.61",
+      "position": 1,
+      "equity": "100040.14",
+      "reason": "grid_buy spacing=43.3318 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-23",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "22086.80",
+      "fees": "6.63",
+      "position": 2,
+      "equity": "100041.77",
+      "reason": "grid_buy spacing=44.0705 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-24",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "22091.05",
+      "fees": "6.63",
+      "position": 3,
+      "equity": "99985.54",
+      "reason": "grid_buy spacing=43.8230 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-34",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22068.20",
+      "fees": "6.62",
+      "position": 2,
+      "equity": "100008.75",
+      "reason": "grid_sell spacing=41.6411 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-35",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22092.15",
+      "fees": "6.63",
+      "position": 1,
+      "equity": "99995.23",
+      "reason": "grid_sell spacing=42.8502 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-36",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22085.50",
+      "fees": "6.63",
+      "position": 0,
+      "equity": "99988.40",
+      "reason": "grid_sell spacing=41.3079 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-37",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "22086.00",
+      "fees": "6.63",
+      "position": 1,
+      "equity": "99964.21",
+      "reason": "grid_buy spacing=38.0711 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-38",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "22068.65",
+      "fees": "6.62",
+      "position": 2,
+      "equity": "99843.42",
+      "reason": "grid_buy spacing=37.9896 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-39",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22011.25",
+      "fees": "6.60",
+      "position": 1,
+      "equity": "99834.85",
+      "reason": "grid_sell spacing=39.3911 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-40",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22009.50",
+      "fees": "6.60",
+      "position": 0,
+      "equity": "99828.05",
+      "reason": "grid_sell spacing=35.9839 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-41",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21965.85",
+      "fees": "6.59",
+      "position": -1,
+      "equity": "99835.57",
+      "reason": "grid_sell spacing=36.7291 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-42",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21951.50",
+      "fees": "6.59",
+      "position": -2,
+      "equity": "99856.26",
+      "reason": "grid_sell spacing=36.2046 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-43",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21937.75",
+      "fees": "6.58",
+      "position": -3,
+      "equity": "99927.93",
+      "reason": "grid_sell spacing=35.3314 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-66",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21753.25",
+      "fees": "6.53",
+      "position": -2,
+      "equity": "100320.79",
+      "reason": "grid_buy spacing=41.0957 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-67",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21791.65",
+      "fees": "6.54",
+      "position": -1,
+      "equity": "100301.97",
+      "reason": "grid_buy spacing=40.8846 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-68",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21803.65",
+      "fees": "6.54",
+      "position": 0,
+      "equity": "100295.23",
+      "reason": "grid_buy spacing=41.6384 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-69",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21779.20",
+      "fees": "6.53",
+      "position": 1,
+      "equity": "100314.25",
+      "reason": "grid_buy spacing=41.6995 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-70",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21804.95",
+      "fees": "6.54",
+      "position": 2,
+      "equity": "100264.47",
+      "reason": "grid_buy spacing=41.4311 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-71",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21783.45",
+      "fees": "6.54",
+      "position": 3,
+      "equity": "100334.21",
+      "reason": "grid_buy spacing=41.9137 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-97",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21951.35",
+      "fees": "6.59",
+      "position": 2,
+      "equity": "100805.98",
+      "reason": "grid_sell spacing=50.0588 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-98",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21976.40",
+      "fees": "6.59",
+      "position": 1,
+      "equity": "100790.48",
+      "reason": "grid_sell spacing=49.2027 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-99",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21967.65",
+      "fees": "6.59",
+      "position": 0,
+      "equity": "100783.65",
+      "reason": "grid_sell spacing=49.5102 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-100",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21918.70",
+      "fees": "6.58",
+      "position": -1,
+      "equity": "100753.25",
+      "reason": "grid_sell spacing=51.8507 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-101",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21942.30",
+      "fees": "6.58",
+      "position": -2,
+      "equity": "100716.15",
+      "reason": "grid_sell spacing=50.3411 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-102",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "21957.45",
+      "fees": "6.59",
+      "position": -3,
+      "equity": "100808.94",
+      "reason": "grid_sell spacing=49.3007 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-128",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21907.65",
+      "fees": "6.57",
+      "position": -2,
+      "equity": "100881.21",
+      "reason": "grid_buy spacing=41.5580 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-129",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21893.70",
+      "fees": "6.57",
+      "position": -1,
+      "equity": "100844.94",
+      "reason": "grid_buy spacing=42.5304 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-130",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21923.15",
+      "fees": "6.58",
+      "position": 0,
+      "equity": "100838.13",
+      "reason": "grid_buy spacing=44.0261 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-131",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "21978.05",
+      "fees": "6.59",
+      "position": 1,
+      "equity": "100876.72",
+      "reason": "grid_buy spacing=45.5405 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-132",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "22023.45",
+      "fees": "6.61",
+      "position": 2,
+      "equity": "100943.91",
+      "reason": "grid_buy spacing=46.9693 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-133",
+      "side": "BUY",
+      "qty": 1,
+      "fill": "22060.45",
+      "fees": "6.62",
+      "position": 3,
+      "equity": "100864.48",
+      "reason": "grid_buy spacing=48.8438 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-160",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22238.00",
+      "fees": "6.67",
+      "position": 2,
+      "equity": "101415.01",
+      "reason": "grid_sell spacing=49.1930 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-161",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22213.45",
+      "fees": "6.66",
+      "position": 1,
+      "equity": "101376.40",
+      "reason": "grid_sell spacing=49.7282 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-162",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22181.70",
+      "fees": "6.65",
+      "position": 0,
+      "equity": "101369.53",
+      "reason": "grid_sell spacing=50.6512 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-163",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22208.90",
+      "fees": "6.66",
+      "position": -1,
+      "equity": "101391.24",
+      "reason": "grid_sell spacing=49.7239 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-164",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22180.30",
+      "fees": "6.65",
+      "position": -2,
+      "equity": "101339.20",
+      "reason": "grid_sell spacing=48.1441 regime=0.75"
+    },
+    {
+      "timestamp": "2026-01-165",
+      "side": "SELL",
+      "qty": 1,
+      "fill": "22202.90",
+      "fees": "6.66",
+      "position": -3,
+      "equity": "101266.87",
+      "reason": "grid_sell spacing=47.1129 regime=0.75"
+    }
+  ]
+}
